@@ -1,18 +1,18 @@
 ﻿Tetris
-1.0.0.0
+
 
 winexe
 C#
 .cs
-c:\Users\ju-sh\OneDrive\Área de Trabalho\Tetris\Tetris\obj\Debug\net6.0-windows\
+C:\Users\ju-sh\OneDrive\Área de Trabalho\Tetris\Tetris\obj\Debug\net6.0-windows\
 Tetris
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-c:\Users\ju-sh\OneDrive\Área de Trabalho\Tetris\Tetris\App.xaml
+C:\Users\ju-sh\OneDrive\Área de Trabalho\Tetris\Tetris\App.xaml
 11407045341
 
-7-1424159517
+6-1837924894
 194101785492
 MainWindow.xaml;
 
